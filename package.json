@@ -1,0 +1,20 @@
+{
+  "name": "hermione-simple-url-decorator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sensetive5/hermione-simple-url-decorator.git"
+  },
+  "keywords": ["hermione-plugin"],
+  "author": "Alexander Sokolov <sensetive5@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sensetive5/hermione-simple-url-decorator/issues"
+  },
+  "homepage": "https://github.com/sensetive5/hermione-simple-url-decorator#readme",
+  "dependencies": {
+    "urijs": "^1.19.7"
+  }
+}
