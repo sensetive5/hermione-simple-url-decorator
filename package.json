@@ -8,7 +8,7 @@
     "url": "git+https://github.com/sensetive5/hermione-simple-url-decorator.git"
   },
   "keywords": ["hermione-plugin"],
-  "author": "Alexander Sokolov <>",
+  "author": "Alexander Sokolov <owngr@yandex-team.ru>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/sensetive5/hermione-simple-url-decorator/issues"
