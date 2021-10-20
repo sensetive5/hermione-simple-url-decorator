@@ -1,6 +1,6 @@
 {
   "name": "hermione-simple-url-decorator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/sensetive5/hermione-simple-url-decorator/issues"
   },
   "homepage": "https://github.com/sensetive5/hermione-simple-url-decorator#readme",
-  "dependencies": {
+  "peerDependencies": {
     "urijs": "^1.19.7"
   }
 }
